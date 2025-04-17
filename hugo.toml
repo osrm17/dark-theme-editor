@@ -15,7 +15,7 @@
     # Parameters applied in HTML <head>
     [params.site]
         # Website ICON
-        faviconUrl = ""
+        faviconUrl = "https://en.wikipedia.org/wiki/Tux_(mascot)#/media/File:Tux.svg"
 
         # Do you have any CSS in local? List them in an array.
         # They should be placed inside "/assets" dir.
