@@ -65,12 +65,12 @@
         title = "Notes to Walk Home By"
 
         # Subtitle for this site, used in homepage only
-        subtitle = "A Site Built by Hugo"
+        subtitle = "Site mantained by Oscar"
 
         # Config about your's site logo, remove this item to hide the logo
         [params.header.logo]
             # Where is your site's URL
-            imgUrl = ""
+            imgUrl = "../../content/tux.png"
 
             # If the logo is clickable, where should it be linked?
             # In default, it will linked to the homepage of the site.
@@ -112,11 +112,11 @@
 
         # Social link in the footer, listed items are supported, delete unwanted items to hide it.
         [params.footer.socialLink]
-            github = ""
+            github = "https://github.com/osrm17"
             facebook = ""
             twitter = ""
             email = ""
-            linkedin = ""
+            linkedin = "https://www.linkedin.com/in/osrm17/"
             instagram = ""
             telegram = ""
             medium = ""
@@ -142,11 +142,11 @@
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = "Hugo is a fast and easy-to-use static website generator written in Go. It renders a complete HTML website from content and templates in a directory, utilizing Markdown files for metadata. It's optimized for speed and suitable for various website types."
+        siteLongDescription = "This is a site to share what I have learned from my experience as a Computer Science graduate and as a Linux System Administrator Intern at DGTIC/UNAM."
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
-        siteLongDescriptionTitle = "Start"
+        siteLongDescriptionTitle = "Why this?"
 
         # Param to decide whether to show the most recent blog posts or not. (Default: true)
         showRecentPostsBlock = true
