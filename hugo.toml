@@ -70,7 +70,7 @@
         # Config about your's site logo, remove this item to hide the logo
         [params.header.logo]
             # Where is your site's URL
-            imgUrl = "../../content/tux.png"
+            imgUrl = "./images/tux.png"
 
             # If the logo is clickable, where should it be linked?
             # In default, it will linked to the homepage of the site.
